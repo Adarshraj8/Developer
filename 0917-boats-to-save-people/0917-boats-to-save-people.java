@@ -6,19 +6,14 @@ class Solution {
         Arrays.sort(people);
         while(left<=right){
             
-         int sum = people[left]+people[right];
+            int sum = people[left]+people[right];
             if(sum<=limit){
                
                 left++;
-            
-             }
-             
-            
-                right--;
-                boats++;
-             
-            
-        }
+            }
+              right--;
+              boats++;
+            }
         return boats;
     }
 }
