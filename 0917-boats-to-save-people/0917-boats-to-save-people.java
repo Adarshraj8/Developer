@@ -7,6 +7,7 @@ class Solution {
         while(left<=right){
             
             int sum = people[left]+people[right];
+            System.out.println(people[left]+" "+people[right]);
             if(sum<=limit){
                
                 left++;
