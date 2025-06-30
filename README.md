@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Adarshraj8/Developer/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Adarshraj8/Developer/tree/master/0344-reverse-string) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Adarshraj8/Developer/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
