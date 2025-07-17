@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adarshraj8/Developer/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adarshraj8/Developer/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Adarshraj8/Developer/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
