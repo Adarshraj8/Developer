@@ -1,11 +1,15 @@
 class Solution {
     public int[][] transpose(int[][] matrix) {
-        int twoD[][]=new int[matrix[0].length][matrix.length];
-		for(int r=0;r<matrix.length;r++) {
-			for(int c=0;c<matrix[0].length;c++) {
-				twoD[c][r]=matrix[r][c];
-			}
-		}
-		return twoD;
+        int n = matrix.length;
+        int m = matrix[0].length;
+        int [][]arr = new int[m][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+               
+                arr[j][i]=matrix[i][j];
+                
+            }
+        }
+        return arr;
     }
 }
