@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Adarshraj8/Developer/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Adarshraj8/Developer/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adarshraj8/Developer/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adarshraj8/Developer/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Adarshraj8/Developer/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshraj8/Developer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adarshraj8/Developer/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adarshraj8/Developer/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adarshraj8/Developer/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
 ## Linked List
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adarshraj8/Developer/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
