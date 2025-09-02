@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Adarshraj8/Developer/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Adarshraj8/Developer/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Adarshraj8/Developer/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adarshraj8/Developer/tree/master/0344-reverse-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshraj8/Developer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Bit Manipulation
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarshraj8/Developer/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
