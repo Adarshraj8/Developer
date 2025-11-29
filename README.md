@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Adarshraj8/Developer/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Adarshraj8/Developer/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adarshraj8/Developer/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Adarshraj8/Developer/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adarshraj8/Developer/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Adarshraj8/Developer/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Adarshraj8/Developer/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Adarshraj8/Developer/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshraj8/Developer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Bit Manipulation
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Adarshraj8/Developer/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
