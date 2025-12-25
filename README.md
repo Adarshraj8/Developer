@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adarshraj8/Developer/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0403-frog-jump](https://github.com/Adarshraj8/Developer/tree/master/0403-frog-jump) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Adarshraj8/Developer/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshraj8/Developer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshraj8/Developer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0403-frog-jump](https://github.com/Adarshraj8/Developer/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/Adarshraj8/Developer/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
