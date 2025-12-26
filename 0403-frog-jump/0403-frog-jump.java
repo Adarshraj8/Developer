@@ -2,9 +2,9 @@ class Solution {
     public boolean canCross(int[] stones) {
         
 
-        Map<Integer,Set<Integer>> map = new HashMap<>();
+      Map<Integer,Set<Integer>> map = new HashMap<>();
 
-        for(int s : stones){
+       for(int s : stones){
             map.put(s,new HashSet<>());
        }
          map.get(0).add(0);
