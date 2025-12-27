@@ -1,22 +1,42 @@
 class Solution {
+
+     Map<String,Boolean> memo;
+     Set<Integer> stoneSet;
+     int lastStone;
     public boolean canCross(int[] stones) {
-        
 
-      Map<Integer,Set<Integer>> map = new HashMap<>();
-
+       stoneSet = new HashSet<>();
        for(int s : stones){
-            map.put(s,new HashSet<>());
+        stoneSet.add(s);
+       } 
+       lastStone = stones[stones.length-1];
+       memo = new HashMap<>();
+       return dfs(0,0);
+    
+    }
+
+    private boolean dfs(int position,int jump){
+
+       if(position==lastStone)return true;
+
+       String key = position+ "," +jump;
+       if(memo.containsKey(key)){
+        return memo.get(key);
        }
-         map.get(0).add(0);
-       for(int s : stones){
-        for(int k:map.get(s)){
-         for(int steps=k-1;steps<=k+1;steps++){
-            if(steps>0 && map.containsKey(steps+s)){
-                map.get(steps+s).add(steps);
+
+       for(int nextJump=jump-1;nextJump<=jump+1;nextJump++){
+          
+          if(nextJump>0){
+            int nextPos= nextJump+position;
+            if(stoneSet.contains(nextPos)){
+                if(dfs(nextPos,nextJump)){
+                    memo.put(key,true);
+                    return true;
+                }
             }
-         }
-        }
+          }
        }
-       return !map.get(stones[stones.length-1]).isEmpty();
+      memo.put(key,false);
+      return false;
     }
 }
