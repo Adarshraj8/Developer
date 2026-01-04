@@ -14,11 +14,14 @@ class Solution {
     public int robRange(int num[],int start,int end,Integer memo[]){
     
     if(start>end) return 0;
-    if(memo[start]!=null) return memo[start];
-    
-
-    memo[start]= Math.max(robRange(num,start+1,end, memo),
-                     num[start]+robRange(num,start+2,end,memo));
-    return memo[start];
+   // if(memo[start]!=null) return memo[start];
+    int dp[] = new int[end-start+1];
+    dp[0]=num[start];
+    if(end>start)
+    dp[1]=Math.max(num[start],num[start+1]);
+      for(int i=2;i<dp.length;i++){
+        dp[i]=Math.max(dp[i-1],num[start+i]+dp[i-2]);
+      }
+       return dp[dp.length-1];
     }
 }
