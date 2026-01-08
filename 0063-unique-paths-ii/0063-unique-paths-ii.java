@@ -7,7 +7,7 @@ class Solution {
        return dfs(m,n,obstacleGrid,memo);
     }
     public int dfs(int row,int  col,int obstacleGrid[][],int memo[][]){
-        if(row<0 ||col<0)return 0;
+      //  if(row<0 ||col<0)return 0;
         int dp[][] = new int[row][col];
         
        // if(row==0&&col==0) return 1;
