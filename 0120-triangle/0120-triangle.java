@@ -1,23 +1,28 @@
 class Solution {
 
-      Integer [][] memo;
+    //  Integer [][] memo;
     public int minimumTotal(List<List<Integer>> triangle) {
    int n = triangle.size();
-    memo = new Integer[n][n];
+    //memo = new Integer[n][n];
     return solve(0,0,triangle);
 
     }
 
     public int solve(int row, int col,List<List<Integer>> triangle){
 
-        if(triangle.size()-1==row){
-            return triangle.get(row).get(col);
+       
+        int dp[] = new int[triangle.size()];
+          int n = triangle.size();
+         for(int j=0;j<triangle.get(n-1).size();j++){
+            dp[j]=triangle.get(n-1).get(j);
+         }
+        for(int i=n-2;i>=0;i--){
+            for(int j=0;j<=i;j++){
+         dp[j]= triangle.get(i).get(j)+Math.min(dp[j],dp[j+1]);
         }
-        if(memo[row][col]!=null){
-            return memo[row][col];
         }
 
-       memo[row][col]= triangle.get(row).get(col)+Math.min(solve(row+1,col,triangle),solve(row+1,col+1,triangle));
-       return memo[row][col];
+       
+       return dp[0];
     }
 }
