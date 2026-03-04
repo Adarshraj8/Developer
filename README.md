@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarshraj8/Developer/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adarshraj8/Developer/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
 ## Greedy
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adarshraj8/Developer/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarshraj8/Developer/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adarshraj8/Developer/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
 ## Math
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshraj8/Developer/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adarshraj8/Developer/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshraj8/Developer/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
