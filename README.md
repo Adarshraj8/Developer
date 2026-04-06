@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/Adarshraj8/Developer/tree/master/0403-frog-jump) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshraj8/Developer/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Adarshraj8/Developer/tree/master/0713-subarray-product-less-than-k) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshraj8/Developer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Adarshraj8/Developer/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshraj8/Developer/tree/master/1004-max-consecutive-ones-iii) |
 | [2498-frog-jump-ii](https://github.com/Adarshraj8/Developer/tree/master/2498-frog-jump-ii) |
 ## Hash Table
@@ -201,10 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshraj8/Developer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarshraj8/Developer/tree/master/0424-longest-repeating-character-replacement) |
+| [0713-subarray-product-less-than-k](https://github.com/Adarshraj8/Developer/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshraj8/Developer/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshraj8/Developer/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Adarshraj8/Developer/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshraj8/Developer/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
