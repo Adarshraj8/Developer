@@ -18,7 +18,7 @@ public class Solution {
         ListNode b = headB;
         while(b!=null){
             if(a==b){
-                return a;
+                return b;
             }
             b=b.next;
         }
