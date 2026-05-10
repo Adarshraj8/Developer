@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Adarshraj8/Developer/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshraj8/Developer/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Adarshraj8/Developer/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1861-rotating-the-box](https://github.com/Adarshraj8/Developer/tree/master/1861-rotating-the-box) |
 | [2498-frog-jump-ii](https://github.com/Adarshraj8/Developer/tree/master/2498-frog-jump-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adarshraj8/Developer/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Adarshraj8/Developer/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Adarshraj8/Developer/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
+| [1861-rotating-the-box](https://github.com/Adarshraj8/Developer/tree/master/1861-rotating-the-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Adarshraj8/Developer/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
+| [1861-rotating-the-box](https://github.com/Adarshraj8/Developer/tree/master/1861-rotating-the-box) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Adarshraj8/Developer/tree/master/3148-maximum-difference-score-in-a-grid) |
 ## Linked List
 |  |
