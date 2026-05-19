@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshraj8/Developer/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Adarshraj8/Developer/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adarshraj8/Developer/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Adarshraj8/Developer/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Adarshraj8/Developer/tree/master/1861-rotating-the-box) |
 | [2498-frog-jump-ii](https://github.com/Adarshraj8/Developer/tree/master/2498-frog-jump-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adarshraj8/Developer/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adarshraj8/Developer/tree/master/0560-subarray-sum-equals-k) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Adarshraj8/Developer/tree/master/0992-subarrays-with-k-different-integers) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Adarshraj8/Developer/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Greedy
 |  |
 | ------- |
@@ -243,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adarshraj8/Developer/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshraj8/Developer/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshraj8/Developer/tree/master/1004-max-consecutive-ones-iii) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Adarshraj8/Developer/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
