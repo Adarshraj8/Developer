@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adarshraj8/Developer/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshraj8/Developer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Adarshraj8/Developer/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshraj8/Developer/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Adarshraj8/Developer/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Adarshraj8/Developer/tree/master/0217-contains-duplicate) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adarshraj8/Developer/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarshraj8/Developer/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
 | [1861-rotating-the-box](https://github.com/Adarshraj8/Developer/tree/master/1861-rotating-the-box) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Adarshraj8/Developer/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -217,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Adarshraj8/Developer/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Adarshraj8/Developer/tree/master/0210-course-schedule-ii) |
 ## Graph
 |  |
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adarshraj8/Developer/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
