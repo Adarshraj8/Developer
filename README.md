@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshraj8/Developer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshraj8/Developer/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adarshraj8/Developer/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2498-frog-jump-ii](https://github.com/Adarshraj8/Developer/tree/master/2498-frog-jump-ii) |
 ## Sorting
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Adarshraj8/Developer/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adarshraj8/Developer/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshraj8/Developer/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Adarshraj8/Developer/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshraj8/Developer/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
