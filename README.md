@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
 | [1861-rotating-the-box](https://github.com/Adarshraj8/Developer/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarshraj8/Developer/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshraj8/Developer/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarshraj8/Developer/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Adarshraj8/Developer/tree/master/0237-delete-node-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarshraj8/Developer/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshraj8/Developer/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarshraj8/Developer/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
