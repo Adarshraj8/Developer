@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adarshraj8/Developer/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Adarshraj8/Developer/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Adarshraj8/Developer/tree/master/0509-fibonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Adarshraj8/Developer/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarshraj8/Developer/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adarshraj8/Developer/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Queue
