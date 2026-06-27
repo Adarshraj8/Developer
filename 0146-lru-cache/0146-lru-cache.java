@@ -11,62 +11,58 @@ class LRUCache {
     }
 
     private int capacity;
-    private Map<Integer, Node> map;  // key → Node
-    private Node head, tail;         // dummy nodes
+    private Map<Integer, Node> map;  
+    private Node head, tail;        
 
     public LRUCache(int capacity) {
-        this.capacity = capacity;
-        map = new HashMap<>();
-
-        // Dummy head (least recent side) and tail (most recent side)
-        head = new Node(0, 0);
-        tail = new Node(0, 0);
-        head.next = tail;
-        tail.prev = head;
+       this.capacity=capacity;
+       map = new HashMap<>();
+       head=new Node(0,0);
+       tail=new Node(0,0);
+       head.next=tail;
+       tail.prev=head;
     }
 
-    // Remove a node from DLL (anywhere)
-    private void remove(Node node) {
-        node.prev.next = node.next;
-        node.next.prev = node.prev;
+    private void remove(Node node){
+        node.prev.next=node.next;
+        node.next.prev=node.prev;
     }
 
-    // Insert node just before TAIL (= most recently used position)
-    private void insertAtTail(Node node) {
+    private void insertTail(Node node){
         node.prev = tail.prev;
-        node.next = tail;
-        tail.prev.next = node;
-        tail.prev = node;
+        node.next=tail;
+        tail.prev.next=node;
+        tail.prev=node;
     }
-
     public int get(int key) {
-        if (!map.containsKey(key)) return -1;
+       if(!map.containsKey(key))return -1;
 
-        Node node = map.get(key);
-        remove(node);        // apni purani jagah se hatao
-        insertAtTail(node);  // most recent ban gaya
-        return node.value;
+       Node node = map.get(key);
+       int value = node.value;
+       remove(node);
+       insertTail(node);
+       return value;
     }
 
     public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            // Update karo aur most recent banao
+        
+        if(map.containsKey(key)){
+
             Node node = map.get(key);
-            node.value = value;
+            node.value=value;
             remove(node);
-            insertAtTail(node);
-        } else {
-            // Capacity check
-            if (map.size() == capacity) {
-                // head.next = least recently used node
-                Node lru = head.next;
-                remove(lru);
-                map.remove(lru.key);  // map se bhi hatao
+            insertTail(node);
+        }
+        else{
+            if(map.size()==capacity){
+               Node lru = head.next;
+               remove(lru);
+               map.remove(lru.key);
+
             }
-            // Naya node banao
-            Node newNode = new Node(key, value);
-            insertAtTail(newNode);
-            map.put(key, newNode);
+            Node newNode = new Node(key,value);
+            insertTail(newNode);
+            map.put(key,newNode);
+        }
         }
     }
-}
