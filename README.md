@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adarshraj8/Developer/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Adarshraj8/Developer/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshraj8/Developer/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/Adarshraj8/Developer/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Adarshraj8/Developer/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adarshraj8/Developer/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adarshraj8/Developer/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Adarshraj8/Developer/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Adarshraj8/Developer/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/Adarshraj8/Developer/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adarshraj8/Developer/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarshraj8/Developer/tree/master/0387-first-unique-character-in-a-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adarshraj8/Developer/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/Adarshraj8/Developer/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Adarshraj8/Developer/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/Adarshraj8/Developer/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
