@@ -1,25 +1,20 @@
 class Solution {
     public int climbStairs(int n) {
-       int dp[] = new int[n+1];
-       //Arrays.fill(dp,-1);
-     return climbStair(n);   
+        int total_way=0;
+        for(int k=0;k<=n/2;k++){
+            int ones = n-2*k;
+            int total_moves = k+ones;
+            long way_for_this_k =C(total_moves,k);
+            total_way += way_for_this_k;
+        }
+        return total_way;
     }
 
-    public int climbStair(int n){
-        //if(n<=2)return n;
-      //  int dp[] = new int[n+1];
-         // if(dp[n]!=-1)
-         // return dp[n];
-        int  prev1=1;
-        int  prev2=1;
-        int curr=1;
-         for(int i=2;i<=n;i++){
-            curr= prev2+prev1;
-            prev1= prev2;
-            prev2=curr;
-         }
-       
-       return curr;
-        
+    private long C(int a, int b){
+        long result=1;
+        for(int i=1;i<=b;i++){
+            result= result*(a-b+i)/i;
+        }
+        return result;
     }
 }
