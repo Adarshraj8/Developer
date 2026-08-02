@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Adarshraj8/Developer/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Adarshraj8/Developer/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshraj8/Developer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Adarshraj8/Developer/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshraj8/Developer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshraj8/Developer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adarshraj8/Developer/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshraj8/Developer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarshraj8/Developer/tree/master/0215-kth-largest-element-in-an-array) |
 ## Memoization
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshraj8/Developer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adarshraj8/Developer/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Design
 |  |
@@ -330,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarshraj8/Developer/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshraj8/Developer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshraj8/Developer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
