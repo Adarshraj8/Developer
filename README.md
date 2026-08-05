@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/Adarshraj8/Developer/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshraj8/Developer/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Adarshraj8/Developer/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshraj8/Developer/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Adarshraj8/Developer/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Adarshraj8/Developer/tree/master/0713-subarray-product-less-than-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adarshraj8/Developer/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Adarshraj8/Developer/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adarshraj8/Developer/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adarshraj8/Developer/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adarshraj8/Developer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Adarshraj8/Developer/tree/master/0435-non-overlapping-intervals) |
 | [0862-find-and-replace-in-string](https://github.com/Adarshraj8/Developer/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Adarshraj8/Developer/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Adarshraj8/Developer/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Adarshraj8/Developer/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshraj8/Developer/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Adarshraj8/Developer/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Adarshraj8/Developer/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Adarshraj8/Developer/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Adarshraj8/Developer/tree/master/1235-maximum-profit-in-job-scheduling) |
