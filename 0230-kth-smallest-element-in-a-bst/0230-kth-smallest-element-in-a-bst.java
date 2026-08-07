@@ -14,25 +14,29 @@
  * }
  */
 class Solution {
-    int count=0;
-    int result=0;
     public int kthSmallest(TreeNode root, int k) {
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode curr = root;
         
-        inorder(root,k);
-        return result;
-    }
-
-    private void inorder(TreeNode node,int k){
-
-        if(node==null)
-        return;
-       
-        inorder(node.left,k);
-          count++;
-        if(count==k){
-            result=node.val;
-            return;
+        while (curr != null || !stack.isEmpty()) {
+            // left mein jitna ja sakte ho jao, stack mein push karte jao
+            while (curr != null) {
+                stack.push(curr);
+                curr = curr.left;
+            }
+            
+            // ab stack se pop karo (ye current smallest hai jo abhi tak nahi dekha)
+            curr = stack.pop();
+            k--;
+            
+            if (k == 0) {
+                return curr.val;   // yahi kth smallest hai
+            }
+            
+            // ab right subtree explore karo
+            curr = curr.right;
         }
-        inorder(node.right,k);
+        
+        return -1; // yahan kabhi nahi aayega agar k valid hai
     }
 }
