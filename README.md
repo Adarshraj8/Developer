@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Adarshraj8/Developer/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Adarshraj8/Developer/tree/master/1861-rotating-the-box) |
 | [2498-frog-jump-ii](https://github.com/Adarshraj8/Developer/tree/master/2498-frog-jump-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adarshraj8/Developer/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adarshraj8/Developer/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Adarshraj8/Developer/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Adarshraj8/Developer/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Adarshraj8/Developer/tree/master/0917-boats-to-save-people) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Adarshraj8/Developer/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adarshraj8/Developer/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adarshraj8/Developer/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adarshraj8/Developer/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
 | ------- |
