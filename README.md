@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Adarshraj8/Developer/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarshraj8/Developer/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/Adarshraj8/Developer/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Adarshraj8/Developer/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Adarshraj8/Developer/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarshraj8/Developer/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adarshraj8/Developer/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Adarshraj8/Developer/tree/master/3875-construct-uniform-parity-array-i) |
 ## Queue
 |  |
 | ------- |
