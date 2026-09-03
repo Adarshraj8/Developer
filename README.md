@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarshraj8/Developer/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/Adarshraj8/Developer/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshraj8/Developer/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Adarshraj8/Developer/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarshraj8/Developer/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adarshraj8/Developer/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshraj8/Developer/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Adarshraj8/Developer/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Queue
 |  |
 | ------- |
