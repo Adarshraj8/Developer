@@ -18,8 +18,8 @@ public class Solution {
         ListNode pointerB = headB;
 
         while(pointerA!=pointerB){
-            pointerA = pointerA==null?headB:pointerA.next;
-            pointerB = pointerB==null?headA:pointerB.next;
+            pointerA = pointerA!=null?pointerA.next:headB;
+            pointerB = pointerB!=null?pointerB.next:headA;
         }
 
         return pointerA;
