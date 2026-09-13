@@ -20,11 +20,11 @@ class Solution {
                     int dy = a[1]-b[1];
                     String key = dx + "," +dy;
 
-                    if(count.containsKey(key))
-                    count.put(key,count.get(key)+1);
-                    else
-                     count.put(key,1);
-
+                    // if(count.containsKey(key))
+                    // count.put(key,count.get(key)+1);
+                    // else
+                    //  count.put(key,1);
+                   count.merge(key,1,Integer::sum);
                      max = Math.max(max,count.get(key));
                 }
              }
