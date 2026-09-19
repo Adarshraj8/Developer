@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Adarshraj8/Developer/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Adarshraj8/Developer/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Adarshraj8/Developer/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adarshraj8/Developer/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarshraj8/Developer/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Adarshraj8/Developer/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3871-count-commas-in-range-ii](https://github.com/Adarshraj8/Developer/tree/master/3871-count-commas-in-range-ii) |
@@ -416,4 +417,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Adarshraj8/Developer/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adarshraj8/Developer/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
