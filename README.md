@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Adarshraj8/Developer/tree/master/1143-longest-common-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adarshraj8/Developer/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adarshraj8/Developer/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adarshraj8/Developer/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Adarshraj8/Developer/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adarshraj8/Developer/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adarshraj8/Developer/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Adarshraj8/Developer/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
