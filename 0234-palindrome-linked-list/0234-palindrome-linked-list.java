@@ -10,36 +10,35 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-         
-         ListNode slow=head;
-         ListNode fast=head;
-
-         while(fast!=null&&fast.next!=null){
-            slow = slow.next;
+        
+        ListNode slow=head;
+        ListNode fast = head;
+        //to find the middle of linkedlist
+        while(fast!=null&&fast.next!=null){
+            slow=slow.next;
             fast = fast.next.next;
-         }
-
-         ListNode prev=null;
+        }
+         
          ListNode curr=slow;
-
+         ListNode prev=null;
          while(curr!=null){
-            ListNode next =  curr.next;
-            curr.next=prev;
-            prev=curr;
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev =curr;
             curr=next;
          }
-          
-     
-       ListNode firstHalf=head;
-       ListNode secondHalf=prev;
-          
-       while(secondHalf!=null){
-        if(firstHalf.val!=secondHalf.val)
-        return false;
+       
+       ListNode p1 = head;
+       ListNode p2=prev;
 
-        firstHalf=firstHalf.next;
-        secondHalf=secondHalf.next;
+       while(p2!=null){
+         if(p1.val!=p2.val)
+         return false;
+
+         p1=p1.next;
+         p2 = p2.next;
        }
        return true;
+
     }
 }
