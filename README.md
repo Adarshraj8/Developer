@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adarshraj8/Developer/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Adarshraj8/Developer/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adarshraj8/Developer/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshraj8/Developer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Adarshraj8/Developer/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarshraj8/Developer/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Adarshraj8/Developer/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Adarshraj8/Developer/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Adarshraj8/Developer/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Adarshraj8/Developer/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Adarshraj8/Developer/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Adarshraj8/Developer/tree/master/0125-valid-palindrome) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adarshraj8/Developer/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adarshraj8/Developer/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Adarshraj8/Developer/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Adarshraj8/Developer/tree/master/0835-image-overlap) |
 | [0898-transpose-matrix](https://github.com/Adarshraj8/Developer/tree/master/0898-transpose-matrix) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Adarshraj8/Developer/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adarshraj8/Developer/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adarshraj8/Developer/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Adarshraj8/Developer/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarshraj8/Developer/tree/master/0230-kth-smallest-element-in-a-bst) |
