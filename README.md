@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Adarshraj8/Developer/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adarshraj8/Developer/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adarshraj8/Developer/tree/master/3483-unique-3-digit-even-numbers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Adarshraj8/Developer/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3838-weighted-word-mapping](https://github.com/Adarshraj8/Developer/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshraj8/Developer/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Adarshraj8/Developer/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Adarshraj8/Developer/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Adarshraj8/Developer/tree/master/0136-single-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Adarshraj8/Developer/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
