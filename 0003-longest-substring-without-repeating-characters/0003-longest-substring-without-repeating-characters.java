@@ -7,15 +7,16 @@ class Solution {
              HashSet<Character> seen  = new HashSet<>();
             for(int j=i;j<s.length();j++){
 
-                
-                if(seen.contains(s.charAt(j)))
+                char c = s.charAt(j);
+                if(seen.contains(c))
                 {
-                     break;
+                    break;
                 }
-                 seen.add(s.charAt(j));
-
+                
+                   seen.add(c);  
+                    max_sub_length = Math.max(max_sub_length,j-i+1);
             }
-            max_sub_length = Math.max(max_sub_length,seen.size());
+           
         }
         return max_sub_length;
     }
