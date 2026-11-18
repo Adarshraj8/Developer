@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Adarshraj8/Developer/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Adarshraj8/Developer/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Adarshraj8/Developer/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Adarshraj8/Developer/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adarshraj8/Developer/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adarshraj8/Developer/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Adarshraj8/Developer/tree/master/0063-unique-paths-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adarshraj8/Developer/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshraj8/Developer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Adarshraj8/Developer/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Adarshraj8/Developer/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adarshraj8/Developer/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshraj8/Developer/tree/master/0142-linked-list-cycle-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adarshraj8/Developer/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Adarshraj8/Developer/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarshraj8/Developer/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adarshraj8/Developer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Adarshraj8/Developer/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Adarshraj8/Developer/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Adarshraj8/Developer/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Adarshraj8/Developer/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Adarshraj8/Developer/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Adarshraj8/Developer/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Adarshraj8/Developer/tree/master/0091-decode-ways) |
