@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Adarshraj8/Developer/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Adarshraj8/Developer/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Adarshraj8/Developer/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Adarshraj8/Developer/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adarshraj8/Developer/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/Adarshraj8/Developer/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshraj8/Developer/tree/master/0416-partition-equal-subset-sum) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Adarshraj8/Developer/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Adarshraj8/Developer/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarshraj8/Developer/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Adarshraj8/Developer/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Adarshraj8/Developer/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarshraj8/Developer/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarshraj8/Developer/tree/master/0435-non-overlapping-intervals) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adarshraj8/Developer/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Adarshraj8/Developer/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adarshraj8/Developer/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Adarshraj8/Developer/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Adarshraj8/Developer/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/Adarshraj8/Developer/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Adarshraj8/Developer/tree/master/1267-count-servers-that-communicate) |
@@ -506,4 +509,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adarshraj8/Developer/tree/master/0056-merge-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adarshraj8/Developer/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Adarshraj8/Developer/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
