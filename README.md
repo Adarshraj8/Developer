@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Adarshraj8/Developer/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Adarshraj8/Developer/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshraj8/Developer/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Adarshraj8/Developer/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshraj8/Developer/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarshraj8/Developer/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Adarshraj8/Developer/tree/master/0189-rotate-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Adarshraj8/Developer/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Adarshraj8/Developer/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Adarshraj8/Developer/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Adarshraj8/Developer/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarshraj8/Developer/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adarshraj8/Developer/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshraj8/Developer/tree/master/0242-valid-anagram) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Adarshraj8/Developer/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshraj8/Developer/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Adarshraj8/Developer/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Adarshraj8/Developer/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adarshraj8/Developer/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adarshraj8/Developer/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adarshraj8/Developer/tree/master/0234-palindrome-linked-list) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adarshraj8/Developer/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshraj8/Developer/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Adarshraj8/Developer/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adarshraj8/Developer/tree/master/0215-kth-largest-element-in-an-array) |
 ## Memoization
 |  |
@@ -517,4 +521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Adarshraj8/Developer/tree/master/0322-coin-change) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adarshraj8/Developer/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
